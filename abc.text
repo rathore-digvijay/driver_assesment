@@ -1,0 +1,33 @@
+
+
+DOCBLOCKR
+
+{
+    "jsdocs_notation_map": [
+        {
+            "prefix": "params",
+            "type": "Object"
+        },
+        {
+            "prefix": "data",
+            "type": "Object"
+        },
+        {
+            "prefix":"req",
+            "type":"Object"
+        },
+        {
+            "prefix":"res",
+            "type":"Callback"
+        },
+        {
+            "prefix":"app",
+            "type":"Object"
+        }
+    ],
+    "jsdocs_extra_tags":[
+        "@author Digvijay Singh", "@date {{date}}"
+    ],
+    "jsdocs_autoadd_method_tag":true,
+    "jsdocs_align_tags":"deep"
+}
